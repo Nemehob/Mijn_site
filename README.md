@@ -4,3 +4,5 @@ Geinterreseerd in de code? <br>
 index.html = Hoofdmenu/startpagina
 <br>
 index2.html = Meer info
+<br>
+test.html = niks interessant
